@@ -17,7 +17,7 @@ title: Introduction
 <a href="https://www.reddit.com/r/jellyfin/"><img class="badge" alt="Join our Subreddit" src="https://img.shields.io/badge/reddit-r%2Fjellyfin-%23FF5700.svg"/></a>
 </p>
 
-Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex, to provide media from a dedicated server to end-user devices via multiple apps. Jellyfin is descended from Emby's 3.5.2 release and ported to the .NET Core framework to enable full cross-platform support. There are no strings attached, no premium licenses or features, and no hidden agendas: just a team who want to build something better and work together to achieve it. We welcome anyone who is interested in joining us in our quest!
+Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to other proprietary Media Systems like Emby and Plex, that helps you provide media from a dedicated server which you run to end-user devices via multiple apps. Jellyfin is descended from Emby's 3.5.2 release and ported to the .NET Core framework to enable full cross-platform support. With Jellyfin there are no strings attached, no premium licenses needed to access features, and no hidden agendas: just a team who wants to build something better and work together to achieve it. We welcome anyone who is interested in joining us on our quest!
 
 You can find a list of all available clients [here](/downloads/clients). For more information please see our [about page](/docs/general/about) or the [FAQ](/docs/general/faq). If you are looking for help, check out [this page](/docs/general/getting-help) for all the different communication channels we use.
 
@@ -39,11 +39,11 @@ Want to get starting using Jellyfin right now? Check out the pages below for how
 - [MacOS](/docs/general/installation/macos)
 - [Generic Linux](/docs/general/installation/linux)
 
-Alternatively, Jellyfin may be built directly from the [source code](/docs/general/installation/source).
+Alternatively, Jellyfin can be built directly from the [source code](/docs/general/installation/source).
 
 ## Administrator Documentation
 
-Want to know more about administering a Jellyfin server? Check out these pages!
+Want to know more about managing/running a Jellyfin server? Check out these pages!
 
 - [Quick-Start Guide](/docs/general/quick-start): What to do after you have installed Jellyfin to get it up and running.
 - [Migrating](/docs/general/administration/migrate): How to migrate Jellyfin.
@@ -54,7 +54,7 @@ Want to know more about administering a Jellyfin server? Check out these pages!
 
 ## Contributing to Jellyfin
 
-Want to help out? Check out the pages below for how to contribute.
+Want to help out? Check out the pages below for more info on how to contribute.
 
 - [Contribution Guide](/docs/general/contributing): General information on contributing to Jellyfin.
 - [Plugin Guide](https://github.com/jellyfin/jellyfin-plugin-template): Documentation and resources to get started writing a plugin to extend Jellyfin functionality.
